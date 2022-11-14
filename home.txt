@@ -1,1 +1,2 @@
 Esta é uma linha de texto.
+Esta é mais uma linha de texto
